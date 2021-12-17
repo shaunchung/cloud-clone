@@ -1,0 +1,14 @@
+.container {
+  width: 90%;
+}
+
+/* Nav */
+.main-nav {
+  display: flex;
+}
+.main-nav .logo {
+  width: 50px;
+}
+.main-nav ul {
+  display: flex;
+}
