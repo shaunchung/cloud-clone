@@ -1,1 +1,1 @@
-# cloud-clone
+# static-files-area
